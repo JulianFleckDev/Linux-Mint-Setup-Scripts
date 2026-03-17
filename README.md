@@ -1,12 +1,21 @@
 # LinuxMintAutoSetup
 
-This simple bash script allowes you to setup your new installed linux mint system faster.
+These simple bash scripts allow you to quickly optimize your new Linux Mint installation.
 You can modify it and use it like you want.
 
-What does the script do?
-1. Updates & Upgrades the system
-2. Firewall Setup
-3. Package installation (optional)
-4. Modern Theme
+Standart vs Fast:
+The difference between fast scripts and normal scripts is that fast scripts execute the desired action without pauses or comments.
 
-Execute the script by going into the directory of the script and type: bash setup.sh
+Apps: (Each package is optional)
+- System Update & Upgrade
+- VLC
+- Gimp
+- Bitwarden
+
+Security-Theme:
+- System Update & Upgrade
+- Firewall (UFW)
+- Modern Theme
+- Modern Font
+
+Execute every script by going into the directory of the script and type: bash setup.sh
