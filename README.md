@@ -4,18 +4,19 @@ These simple bash scripts allow you to quickly optimize your new Linux Mint inst
 You can modify it and use it like you want.
 
 Standart vs Fast:
-The difference between fast scripts and normal scripts is that fast scripts execute the desired action without pauses or comments.
+The difference between fast scripts and normal scripts is that fast scripts execute the desired action faster without any pauses or comments.
 
-Apps: (Each package is optional)
+Firewall_and_Theme:
 - System Update & Upgrade
-- VLC
-- Gimp
-- Bitwarden
+- Basic Firewall setup (activation, deny incoming, allow outgoing)
+- Modern Theme (Similar to Windows 11)
+- Modern Font (Inter)
 
-Security-Theme:
+setup_Apps: (Each package is optional)
 - System Update & Upgrade
-- Firewall (UFW)
-- Modern Theme
-- Modern Font
+- VLC (Free Media Player)
+- Gimp (Free Image Editor, similar to Photoshop)
+- Bitwarden (Free Password Manager)
 
-Execute every script by going into the directory of the script and type: bash setup.sh
+Execute every script by going into the directory of the script and type: 
+bash "Name of the script"
