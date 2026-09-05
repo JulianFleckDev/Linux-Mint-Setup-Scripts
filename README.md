@@ -17,6 +17,6 @@ setup_Apps: (Each package is optional)
 - VLC (Free Media Player)
 - Gimp (Free Image Editor, similar to Photoshop)
 - Bitwarden (Free Password Manager)
-- 
+
 Execute every script by going into the directory of the script and typing:
 bash "Name of the script"
