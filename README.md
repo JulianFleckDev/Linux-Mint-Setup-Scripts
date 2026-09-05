@@ -1,5 +1,7 @@
 # LinuxMintAutoSetup
 
+<img width="1280" height="960" alt="linuxmint-1" src="https://github.com/user-attachments/assets/345c0d7b-2429-41e7-bb00-4f053235e026" />
+
 These simple bash scripts allow you to quickly optimize your new Linux Mint installation.
 You can modify them and use them as you wish.
 
